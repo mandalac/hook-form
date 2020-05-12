@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hook-form/static/css/main.54fea3c8.chunk.css",
+    "main.js": "/hook-form/static/js/main.b33e4fb7.chunk.js",
+    "main.js.map": "/hook-form/static/js/main.b33e4fb7.chunk.js.map",
+    "runtime-main.js": "/hook-form/static/js/runtime-main.cdb10f52.js",
+    "runtime-main.js.map": "/hook-form/static/js/runtime-main.cdb10f52.js.map",
+    "static/js/2.75e547cf.chunk.js": "/hook-form/static/js/2.75e547cf.chunk.js",
+    "static/js/2.75e547cf.chunk.js.map": "/hook-form/static/js/2.75e547cf.chunk.js.map",
+    "index.html": "/hook-form/index.html",
+    "precache-manifest.93b8abc0d285dcfece63a17057aeedbb.js": "/hook-form/precache-manifest.93b8abc0d285dcfece63a17057aeedbb.js",
+    "service-worker.js": "/hook-form/service-worker.js",
+    "static/css/main.54fea3c8.chunk.css.map": "/hook-form/static/css/main.54fea3c8.chunk.css.map",
+    "static/js/2.75e547cf.chunk.js.LICENSE.txt": "/hook-form/static/js/2.75e547cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdb10f52.js",
+    "static/js/2.75e547cf.chunk.js",
+    "static/css/main.54fea3c8.chunk.css",
+    "static/js/main.b33e4fb7.chunk.js"
+  ]
+}
